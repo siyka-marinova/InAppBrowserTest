@@ -1,0 +1,9 @@
+{
+  "CordovaPluginVariables": {},
+  "CorePlugins": [
+    "com.rjfun.cordova.plugin.admob@1.1",
+    "com.telerik.mobiletesting",
+    "org.apache.cordova.device",
+    "org.apache.cordova.splashscreen"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "CordovaPluginVariables": {},
+  "CorePlugins": [
+    "com.phonegap.plugins.barcodescanner",
+    "com.telerik.mobiletesting",
+    "org.apache.cordova.device",
+    "org.apache.cordova.splashscreen"
+  ]
+}

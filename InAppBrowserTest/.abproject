@@ -41,6 +41,8 @@
   "FrameworkVersion": "3.5.0",
   "CorePlugins": [
     "com.phonegap.plugins.barcodescanner",
+    "com.rjfun.cordova.plugin.admob@1.1",
+    "com.telerik.mobiletesting",
     "org.apache.cordova.device",
     "org.apache.cordova.splashscreen"
   ],
